@@ -1,8 +1,8 @@
 ## What I do
 
-I'm mainly a game developer, though so far that has been mostly limited to game jams. For this I have used Godot, Blender and Unity.
+I'm mainly a game developer, though so far that has been mostly focused on game jams. For this I have used Godot, Blender and Unity.
 
-At the moment I'm working on a SteamVR/OpenVR overlay called [OVR Utils](https://github.com/CrispyPin/ovr-utils), made in Godot.
+At the moment I'm working on a SteamVR/OpenVR overlay app called [OVR Utils](https://github.com/CrispyPin/ovr-utils), made in Godot.
 
 ### Languages and tools:
 
@@ -14,4 +14,4 @@ At the moment I'm working on a SteamVR/OpenVR overlay called [OVR Utils](https:/
 <a href="https://www.arduino.cc/"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="python" width="48" height="48"/></a>
 
 
-Currently using [Pop!\_OS](https://pop.system76.com/)
+Currently using [Pop!\_OS](https://pop.system76.com/) on my PC and Ubuntu on my server.

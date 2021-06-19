@@ -14,4 +14,4 @@ At the moment I'm working on a SteamVR/OpenVR overlay app called [OVR Utils](htt
 <a href="https://www.arduino.cc/"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="python" width="48" height="48"/></a>
 
 
-Currently using [Pop!\_OS](https://pop.system76.com/) on my PC and Ubuntu on my server.
+Currently using [Pop!\_OS](https://pop.system76.com/) on my PC, Arch on my laptop and Ubuntu on my server.

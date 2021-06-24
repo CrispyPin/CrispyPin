@@ -1,0 +1,29 @@
+window:
+  padding:
+    x: 4
+    y: 4
+background_opacity: 0.5
+font:
+  normal:
+    family: Source code pro
+  size: 10
+
+colors:
+  normal:
+    black:      "#111111"
+    red:        "#cc0000"
+    green:      "#00cc00"
+    yellow:     "#cccc00"
+    blue:       "#0066ff"
+    magenta:    "#cc00cc"
+    cyan:       "#00ccff"
+    white:      "#cccccc"
+  bright:
+    black:      "#000000"
+    red:        "#ff0000"
+    green:      "#00ff00"
+    yellow:     "#ffff00"
+    blue:       "#0000ff"
+    magenta:    "#ff00ff"
+    cyan:       "#00ffff"
+    white:      "#ffffff"

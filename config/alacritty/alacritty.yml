@@ -1,12 +1,12 @@
 window:
   padding:
-    x: 4
-    y: 4
-background_opacity: 0.5
+    x: 8
+    y: 8
+background_opacity: 0.8
 font:
   normal:
-    family: Source code pro
-  size: 10
+    family: monospace
+  size: 12
 
 colors:
   normal:
@@ -14,16 +14,16 @@ colors:
     red:        "#cc0000"
     green:      "#00cc00"
     yellow:     "#cccc00"
-    blue:       "#0066ff"
+    blue:       "#44bbff"
     magenta:    "#cc00cc"
-    cyan:       "#00ccff"
+    cyan:       "#00cccc"
     white:      "#cccccc"
   bright:
     black:      "#000000"
     red:        "#ff0000"
     green:      "#00ff00"
     yellow:     "#ffff00"
-    blue:       "#0000ff"
+    blue:       "#66ccff"
     magenta:    "#ff00ff"
     cyan:       "#00ffff"
     white:      "#ffffff"

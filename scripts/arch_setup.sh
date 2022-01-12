@@ -2,7 +2,7 @@
 
 cd ~
 
-sudo pacman -S --needed git nano nvim
+sudo pacman -S --needed git nano neovim
 sudo pacman -S --needed base-devel
 
 git clone https://aur.archlinux.org/yay-bin.git
@@ -12,7 +12,7 @@ cd ..
 
 yay
 
-yay -S --needed xorg awesome picom xcape numlockx \
+yay -S --needed xorg-server awesome picom xcape numlockx \
 lxappearance adwaita-dark ly \
 noto-fonts-emoji ttf-comic-mono-git wqy-zenhei \
 lshw sshfs xdg-user-dirs xdg-utils fish fastfetch cpupower \

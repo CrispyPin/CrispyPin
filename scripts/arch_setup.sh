@@ -12,10 +12,11 @@ cd ..
 
 yay
 
-yay -S --needed xorg-server awesome picom xcape numlockx \
+yay -S --needed xorg-server awesome picom xcape numlockx polkit-gnome \
 lxappearance adwaita-dark ly \
 noto-fonts-emoji ttf-comic-mono-git wqy-zenhei \
-lshw sshfs xdg-user-dirs xdg-utils fish fastfetch cpupower \
+lshw sshfs xdg-user-dirs xdg-utils fuse \
+fish fastfetch cpupower \
 pulseaudio pavucontrol alsa-utils \
 pcmanfm vscodium-bin ffmpeg alacritty meld \
 maim xclip slop \
@@ -35,5 +36,5 @@ xdg-user-dirs-update
 rmdir Desktop/ Downloads/ Documents/ Pictures/ Music/ Videos/ Templates/ Public/
 
 
-yay -S --needed steam blender gnome-system-monitor
+yay -S --needed steam blender gnome-system-monitor godot obs-studio
 

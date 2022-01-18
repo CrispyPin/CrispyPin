@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# installs most of the stuff I need in arch, may make it more flexible in the future
+
 cd ~
 
 sudo pacman -S --needed git nano neovim
@@ -12,7 +14,7 @@ cd ..
 
 yay
 
-yay -S --needed xorg-server awesome picom xcape numlockx polkit-gnome \
+yay -S --needed xorg-server xf86-video-amdgpu awesome picom xcape numlockx polkit-gnome \
 lxappearance adwaita-dark ly \
 noto-fonts-emoji ttf-comic-mono-git wqy-zenhei \
 lshw sshfs xdg-user-dirs xdg-utils fuse \
@@ -36,5 +38,5 @@ xdg-user-dirs-update
 rmdir Desktop/ Downloads/ Documents/ Pictures/ Music/ Videos/ Templates/ Public/
 
 
-yay -S --needed steam blender gnome-system-monitor godot obs-studio
+yay -S --needed steam blender gnome-system-monitor godot obs-studio v4l2loopback-dkms mpv eog gimp multimc5 redshift element-desktop trash-cli file-roller pfetch yt-dlp
 

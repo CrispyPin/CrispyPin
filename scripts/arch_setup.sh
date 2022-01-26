@@ -19,7 +19,7 @@ lxappearance adwaita-dark ly \
 noto-fonts-emoji ttf-comic-mono-git wqy-zenhei \
 lshw sshfs xdg-user-dirs xdg-utils fuse \
 fish fastfetch cpupower \
-pulseaudio pavucontrol alsa-utils \
+pulseaudio ncpamixer alsa-utils \
 pcmanfm vscodium-bin ffmpeg alacritty meld \
 maim xclip slop \
 firefox discord spotify
@@ -38,5 +38,9 @@ xdg-user-dirs-update
 rmdir Desktop/ Downloads/ Documents/ Pictures/ Music/ Videos/ Templates/ Public/
 
 
-yay -S --needed steam blender gnome-system-monitor godot obs-studio v4l2loopback-dkms mpv eog gimp multimc5 redshift element-desktop trash-cli file-roller pfetch yt-dlp
+yay -S --needed steam blender gnome-system-monitor godot obs-studio mpv feh gimp multimc5 redshift element-desktop trash-cli file-roller pfetch yt-dlp linux-headers v4l2loopback-dkms
 
+# for building apriltags
+yay -S --needed gst-plugins-good
+sudo ln -s /usr/bin/make /usr/bin/gmake
+sudo ln -s /usr/lib/glib-2.0/include/glibconfig.h /usr/include/glib-2.0/glibconfig.h

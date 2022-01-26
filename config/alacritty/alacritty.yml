@@ -2,7 +2,8 @@ window:
   padding:
     x: 8
     y: 8
-background_opacity: 0.4
+  opacity: 0.6 
+
 font:
   normal:
     family: Comic mono
@@ -10,23 +11,27 @@ font:
 
 colors:
   primary:
-    background: "#000000"
+    background: "#222244"
     foreground: "#ffffff"
   normal:
     black:      "#111111"
     red:        "#cc0000"
     green:      "#00cc00"
     yellow:     "#cccc00"
-    blue:       "#44bbff"
+    blue:       "#4466dd"
     magenta:    "#cc00cc"
     cyan:       "#00cccc"
-    white:      "#cccccc"
+    white:      "#bbbbbb"
   bright:
-    black:      "#000000"
+    black:      "#222222"
     red:        "#ff0000"
     green:      "#00ff00"
     yellow:     "#ffff00"
-    blue:       "#66ccff"
-    magenta:    "#ff00ff"
-    cyan:       "#00ffff"
+    blue:       "#66aaff"
+    magenta:    "#ff55ff"
+    cyan:       "#55ffff"
     white:      "#ffffff"
+
+shell:
+  program: /bin/fish
+  

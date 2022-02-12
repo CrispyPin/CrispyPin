@@ -1,8 +1,8 @@
-## What I do
+## Hello
 
 I'm mainly a game developer, though so far that has been mostly focused on game jams. For this I have used Godot, Blender and Unity.
 
-At the moment I'm working on a SteamVR/OpenVR overlay app called [OVR Utils](https://github.com/CrispyPin/ovr-utils), made in Godot.
+I'm working on a SteamVR/OpenVR overlay app called [OVR Utils](https://github.com/CrispyPin/ovr-utils), made in Godot.
 
 ### Languages and tools:
 

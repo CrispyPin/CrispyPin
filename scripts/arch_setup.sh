@@ -4,30 +4,27 @@
 
 cd ~
 
-sudo pacman -S --needed git nano neovim
-sudo pacman -S --needed base-devel
+sudo pacman -S --needed git neovim base-devel
 
 git clone https://aur.archlinux.org/yay-bin.git
 cd yay-bin
 makepkg -si
-cd ..
+cd ~
 
 yay
 
 yay -S --needed xorg-server xf86-video-amdgpu awesome picom xcape numlockx polkit-gnome \
-lxappearance adwaita-dark ly \
+lxappearance dracula-gtk-theme ly \
 noto-fonts-emoji ttf-comic-mono-git wqy-zenhei \
 lshw sshfs xdg-user-dirs xdg-utils fuse \
-fish fastfetch cpupower \
+fish fastfetch pfetch cpupower \
 pulseaudio ncpamixer alsa-utils \
-pcmanfm vscodium-bin ffmpeg alacritty meld \
+pcmanfm vscodium-bin ffmpeg alacritty kitty meld \
 maim xclip slop \
 firefox discord spotify
 
 mkdir -p .config
-cd .config
-git clone https://github.com/crispypin/awesomewm-config awesome
-cd ~
+git clone https://github.com/crispypin/awesomewm-config .config/awesome
 
 mkdir -p archive bin documents downloads music pictures proj temp uni videos .templates .desktop
 
@@ -38,7 +35,12 @@ xdg-user-dirs-update
 rmdir Desktop/ Downloads/ Documents/ Pictures/ Music/ Videos/ Templates/ Public/
 
 
-yay -S --needed steam blender gnome-system-monitor godot obs-studio mpv feh gimp multimc5 redshift element-desktop trash-cli file-roller pfetch yt-dlp linux-headers v4l2loopback-dkms
+yay -S --needed\ 
+steam obs-studio-git linux-headers v4l2loopback-dkms \ 
+blender btop godot gimp \
+mpv feh yt-dlp file-roller \ 
+redshift element-desktop gnome-keyring trash-cli \ 
+gvfs-gphoto2 gvfs-mtp jmtpfs
 
 # for building apriltags
 yay -S --needed gst-plugins-good

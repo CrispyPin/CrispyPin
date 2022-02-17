@@ -35,11 +35,11 @@ xdg-user-dirs-update
 rmdir Desktop/ Downloads/ Documents/ Pictures/ Music/ Videos/ Templates/ Public/
 
 
-yay -S --needed\ 
-steam obs-studio-git linux-headers v4l2loopback-dkms \ 
+yay -S --needed \
+steam obs-studio-git linux-headers v4l2loopback-dkms \
 blender btop godot gimp \
-mpv feh yt-dlp file-roller \ 
-redshift element-desktop gnome-keyring trash-cli \ 
+mpv feh yt-dlp file-roller \
+redshift element-desktop gnome-keyring trash-cli \
 gvfs-gphoto2 gvfs-mtp jmtpfs
 
 # for building apriltags

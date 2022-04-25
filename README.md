@@ -15,6 +15,7 @@ I'm working on a SteamVR/OpenVR overlay app called [OVR Utils](https://github.co
 ### Computer magic I am learning or have only used moderately:
 
 <a href="https://www.rust-lang.org/"><img src="https://github.com/CrispyPin/CrispyPin/blob/main/icons/rust.png" alt="rust" width="48" height="48"/></a>
+<a href="https://godot-rust.github.io/"><img src="https://github.com/CrispyPin/CrispyPin/blob/main/icons/gdrust.png" alt="godot-rust" width="48" height="48"/></a>
 <img src="https://github.com/CrispyPin/CrispyPin/blob/main/icons/cpp.svg" alt="C++" width="48" height="48"/>
 <img src="https://github.com/CrispyPin/CrispyPin/blob/main/icons/c.png" alt="C" width="48" height="48"/>
 <a href="https://www.arduino.cc/"><img src="https://github.com/CrispyPin/CrispyPin/blob/main/icons/arduino.svg" alt="arduino" width="48" height="48"/></a>

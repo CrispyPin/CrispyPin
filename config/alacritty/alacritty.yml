@@ -7,7 +7,7 @@ window:
 font:
   normal:
     family: Comic mono
-  size: 12
+  size: 10
 
 colors:
   primary:

@@ -19,8 +19,8 @@ noto-fonts-emoji ttf-comic-mono-git wqy-zenhei \
 lshw sshfs xdg-user-dirs xdg-utils fuse \
 fish fastfetch pfetch cpupower \
 pulseaudio ncpamixer alsa-utils \
-pcmanfm vscodium-bin ffmpeg alacritty kitty meld \
-maim xclip slop \
+pcmanfm vscodium-bin ffmpeg alacritty kitty meld cloc \
+maim xclip slop xdotool \
 firefox discord spotify
 
 mkdir -p .config
@@ -46,3 +46,6 @@ gvfs-gphoto2 gvfs-mtp jmtpfs
 yay -S --needed gst-plugins-good
 sudo ln -s /usr/bin/make /usr/bin/gmake
 sudo ln -s /usr/lib/glib-2.0/include/glibconfig.h /usr/include/glib-2.0/glibconfig.h
+
+
+timedatectl set-ntp true

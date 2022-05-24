@@ -3,9 +3,10 @@
 I am a game dev and Linux nerd, all my games are on [itch.io](https://crispypin.itch.io).
 
 Current projects include: 
-- My website [crispypin.cc](https://crispypin.cc)
 - Learning Rust & godot-rust
-- A SteamVR/OpenVR overlay app called [OVR Utils](https://github.com/CrispyPin/ovr-utils), made in Godot.
+- Learning the [ASETNIOP](https://asetniop.com/) keyboard layout, for some reason
+- My website [crispypin.cc](https://crispypin.cc)
+- My SteamVR overlay app, [OVR Utils](https://github.com/CrispyPin/ovr-utils)
 
 Currently using Arch Linux with AwesomeWM on my PC & laptop and Ubuntu on my server.
 

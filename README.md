@@ -4,7 +4,7 @@ I am a game dev and Linux nerd, all my games are on [itch.io](https://crispypin.
 
 Current projects include: 
 - Learning Rust & godot-rust
-- Learning the [ASETNIOP](https://asetniop.com/) keyboard layout, for some reason
+- Learning toki pona
 - My website [crispypin.cc](https://crispypin.cc)
 - My SteamVR overlay app, [OVR Utils](https://github.com/CrispyPin/ovr-utils)
 

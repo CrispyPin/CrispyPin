@@ -1,16 +1,17 @@
 ## About me
 
-My interests include: game development, VR, Linux, FOSS, Rust, RISC, 3D modeling and conlangs.
+My interests include: gamedev, VR, Linux, FOSS, Rust, RISC, 3D modeling and conlangs.
 
 mi sona e toki pona. o toki tawa mi!
 
-All of my published games are on [crispypin.itch.io](https://crispypin.itch.io), a few of them also have public repos here on github.
+All of my published games are on [crispypin.itch.io](https://crispypin.itch.io) and a few of them also have public repos here on github.
 
-Current projects include:
-- extending the layout of my custom keyboard [leko pona](https://github.com/CrispyPin/leko-pona)
-- various dumb rust projects
-- [OVR Utils](https://github.com/CrispyPin/ovr-utils), a cross-platform SteamVR overlay app
-- my website [crispypin.cc](https://crispypin.cc)
+### Notable projects
+- [leko pona](https://github.com/CrispyPin/leko-pona) - my custom split ortholinear 36-key keyboard
+- [sinpin-vr](https://github.com/CrispyPin/sinpin-vr) - a VR desktop overlay for linux with multi-monitor support
+- [OVR Utils](https://github.com/CrispyPin/ovr-utils) - a cross-platform SteamVR overlay app
+- [gol-wallpaper](https://gol.crispypin.cc/?cellsize=5&time=2&margin=0&populate=true)([source](https://github.com/CrispyPin/gol-wallpaper)) - Conway's Game of Life in the browser (using GPU.js)
+- [crispypin.cc](https://crispypin.cc) - where I've posted some other projects, but it's not up to date because web dev is boring
 
 ### Computer magic I know:
 

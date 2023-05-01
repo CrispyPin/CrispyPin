@@ -1,8 +1,5 @@
 ## About me
-
 My interests include: gamedev, VR, Linux, FOSS, Rust, RISC, 3D modeling and conlangs.
-
-mi sona e toki pona. o toki tawa mi!
 
 All of my published games are on [crispypin.itch.io](https://crispypin.itch.io) and a few of them also have public repos here on github.
 
@@ -28,3 +25,12 @@ All of my published games are on [crispypin.itch.io](https://crispypin.itch.io) 
 <img src="icons/javascript.svg" alt="javascript" width="48" height="48"/>
 <img src="icons/html.png" alt="html5" width="48" height="48"/>
 <img src="icons/lua.png" alt="lua" width="48" height="48"/>
+
+### Human languages
+|image|language|words|
+|-|-|-|
+|<img src="icons/pingu_1.png" alt="Swedish" width="64"> | Swedish | Jag vet hur man uttalar BLÅHAJ
+|<img src="icons/pingu_2.png" alt="English" width="64"> | English | I don't know why this is here, the rest is already in English
+|<img src="icons/pingu_3.png" alt="cat" width="64"> | cat | mrrp :3
+|<img src="icons/raccoon.png" alt="toki pona" width="64"> | toki pona | o moku e jan pi mani mute
+

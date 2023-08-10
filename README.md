@@ -1,15 +1,20 @@
 ## About me
-My interests include: game development, VR, Linux, FOSS, Rust, RISC, 3D modeling and conlangs.
+My interests include: game development, VR, Linux, FOSS, Rust, digital logic, cellular automata, shaders, 3D modeling and conlangs.
 
 All of my published games are on [crispypin.itch.io](https://crispypin.itch.io) and a few of them also have public repositories here.
 
+**Please consider all my projects abandonware; don't expect anything to be finished or updated further.**
+
+mi sona e toki pona
+
 ### Notable projects
 - [leko pona](https://github.com/CrispyPin/leko-pona) - my custom split ortholinear 36-key keyboard
+- [julia fractal renderer](https://github.com/CrispyPin/julia-fractal-renderer) - an app for creating high-res fractal wallpapers
 - [sinpin-vr](https://github.com/CrispyPin/sinpin-vr) - a VR desktop overlay for Linux with multi-monitor support
 - [OVR Utils](https://github.com/CrispyPin/ovr-utils) - a cross-platform SteamVR overlay app
 - [lili](https://github.com/CrispyPin/lili) - a terminal text editor for Linux
-- [gol-wallpaper](https://gol.crispypin.cc/?cellsize=5&time=2&margin=0&populate=true)([source](https://github.com/CrispyPin/gol-wallpaper)) - Conway's Game of Life in the browser (using GPU.js)
-- [crispypin.cc](https://crispypin.cc) - where I've posted some other projects, but it's not up to date because web dev is boring
+- [GoL wallpaper](https://gol.crispypin.cc/?cellsize=5&time=2&margin=0&populate=true)([source](https://github.com/CrispyPin/gol-wallpaper)) - Conway's Game of Life in the browser (using GPU.js)
+- [crispypin.cc](https://crispypin.cc) - where I've posted some other projects, not up to date because web dev is boring
 
 ### Computer magic I know
 <a href="https://godotengine.org/"><img src="icons/godot.svg" alt="godot" width="48" height="48"/></a>
@@ -25,11 +30,3 @@ All of my published games are on [crispypin.itch.io](https://crispypin.itch.io) 
 <img src="icons/javascript.svg" alt="javascript" width="48" height="48"/>
 <img src="icons/html.png" alt="html5" width="48" height="48"/>
 <img src="icons/lua.png" alt="lua" width="48" height="48"/>
-
-### Languages
-|"flag"|language|words|
-|------|--------|-----|
-|<img src="icons/pingu_1.png" alt="English" width="48">   | English   | From the moment I understood the weakness of my flesh, it disgusted me
-|<img src="icons/pingu_2.png" alt="Svenska" width="48">   | Svenska   | Jag vet hur man uttalar BLÅHAJ
-|<img src="icons/raccoon.png" alt="toki pona" width="48"> | toki pona | kijetesantakalu li lukin e sina
-|<img src="icons/pingu_3.png" alt="Cat" width="48">       | Cat       | mrrp :3
